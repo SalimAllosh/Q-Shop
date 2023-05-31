@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "164573529000",
+    "project_id": "salimshopapptest",
+    "storage_bucket": "salimshopapptest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164573529000:android:2271bfce7c67eae302939d",
+        "android_client_info": {
+          "package_name": "com.example.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164573529000-fa9dnighdje5dcvhrlkh7hfiv5ka8gq9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shop_app",
+            "certificate_hash": "851a7d6251aeb7b4a1877b9d84a9b33555797c88"
+          }
+        },
+        {
+          "client_id": "164573529000-u0elsmh1upnbiv9ke2agu08nij1u2qhp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHMgBocQDlxIJNsmfkqE-j1QTQsRCQ-qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164573529000-u0elsmh1upnbiv9ke2agu08nij1u2qhp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
